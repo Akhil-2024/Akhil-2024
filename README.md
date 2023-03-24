@@ -8,4 +8,4 @@ I am keenly interested in Data Science And Machine Learning. Since my first year
 
 📫 How to reach me me20b1075@iiitdm.ac.in
 
-📄 Know about my experiences Resume
+📄 Know about my experiences https://drive.google.com/file/d/1GKd6_wWTGhn_RSl8FMbX1PeZgCH_G6B-/view?usp=sharing
