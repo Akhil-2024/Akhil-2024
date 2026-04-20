@@ -1,5 +1,5 @@
-M.Tech @ IIT Delhi | Control Systems • Machine Learning • Robotics • Software
-
+Hi there 👋, I am Akhilesh Kumar Patel
+🚀 M.Tech @ IIT Delhi | Control And Automation • Machine Learning • Robotics • Software
 💡 Profile Summary
 
 I work at the intersection of Control Systems, Software Engineering, Machine Learning, and Robotics, building intelligent and data-driven solutions.
