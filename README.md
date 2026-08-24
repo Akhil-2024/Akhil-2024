@@ -25,7 +25,7 @@ Motivation and consistency tips
 
 📊 Channel Highlights:
 
-1800+ Subscribers
+2300+ Subscribers
 Focused GATE aspirant audience
 High engagement learning community
 
